@@ -30,3 +30,10 @@ On cloud
 [Demo Video](https://www.loom.com/share/a9bcf61e261e4a6eb7fce2643fccec77)
 
 [Deployed link](https://stroke-prediction-app-3.onrender.com/)
+
+
+##### Contribution
+Joel Alumasa contributed 25% as he did his part of assignment
+Liliose Kamihigo contributed 25% as her did his part of assignment
+Daphin Tona contributed 25% as her did his part of assignment
+Igor Hirwa contributed 25% as he did his part of assignment
