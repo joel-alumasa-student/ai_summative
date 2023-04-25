@@ -9,12 +9,18 @@ The system will use machine learning algorithms to analyze patient data and gene
 The motivation behind this project is to provide healthcare providers and patients with a tool that can enable early detection and prevention of stroke, 
 thereby reducing the incidence of stroke and its associated morbidity and mortality.
 
-### Launch
+### Host
 
 On local server, download the entire 'ai_summative' folder
 - Install `streamlit`, `numpy`, `sklearn`, `pandas`, `python3`,`scikit-learn`
 - Run `friend.py` using `streamlit run friend.py`
- 
+
+On cloud
+- Open [Render](https://render.com/)
+- Connect `Github account` with `render` and choose `Deploy web service` and the `Github repo` to connect to
+
+### Launch
+
 On cloud
 - Run [this link](https://stroke-prediction-app-3.onrender.com/) on your browser
 
