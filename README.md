@@ -33,7 +33,7 @@ On cloud
 
 
 ##### Contribution
-Joel Alumasa contributed 25% as he did his part of assignment
-Liliose Kamihigo contributed 25% as her did his part of assignment
-Daphin Tona contributed 25% as her did his part of assignment
-Igor Hirwa contributed 25% as he did his part of assignment
+- Joel Alumasa contributed 25% as he did his part of assignment
+- Liliose Kamihigo contributed 25% as her did his part of assignment
+- Daphin Tona contributed 25% as her did his part of assignment
+- Igor Hirwa contributed 25% as he did his part of assignment
