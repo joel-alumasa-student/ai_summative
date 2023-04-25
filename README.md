@@ -27,6 +27,6 @@ On cloud
 ### Relevant Links
 [Proposal](https://docs.google.com/document/d/1Z1JjY_s2-tkXhquh4eQgQ-4XZ_V9GXtZne9bm77-hVA/edit)
 
-[Demo Video](https://www.loom.com/share/8880a33dbae54eb5b410c6b10e481da4)
+[Demo Video](https://www.loom.com/share/a9bcf61e261e4a6eb7fce2643fccec77)
 
 [Deployed link](https://stroke-prediction-app-3.onrender.com/)
