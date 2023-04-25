@@ -12,8 +12,8 @@ thereby reducing the incidence of stroke and its associated morbidity and mortal
 ### Launch
 
 On local server, download the entire 'ai_summative' folder
-- Install 'streamlit', 'numpy', 'sklearn', 'pandas', 'python3','scikit-learn'
-- Run 'friend.py' using 'streamlit run friend.py'
+- Install `streamlit`, `numpy`, `sklearn`, `pandas`, `python3`,`scikit-learn`
+- Run `friend.py` using `streamlit run friend.py`
  
 On cloud
 - Run [this link](https://stroke-prediction-app-3.onrender.com/) on your browser
